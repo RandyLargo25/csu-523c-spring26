@@ -1,0 +1,32 @@
+{
+    "id": "2E1243E1",
+    "path": "~/Desktop/ESS_532c/Randy_Lab_1/lab-01/lab-01.qmd",
+    "project_path": "lab-01/lab-01.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1774482527377.0,
+    "source_on_save": true,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "47349:24847",
+        "rmdVisualCollapsedChunks": "",
+        "docOutlineSize": "160"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1775073293,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1775073293808,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,10 @@
+---
+title: "Randy_Lab1"
+format: html
+editor: visual
+---
+
+```{r}
+
+```
+
